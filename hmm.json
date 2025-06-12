@@ -5,7 +5,7 @@
       "type": "git",
       "dir": null,
       "ref": "develop",
-      "url": "https://github.com/mcagabe19-stuff/lime"
+      "url": "https://github.com/kittycathy233/lime"
     },
     {
       "name": "openfl",
@@ -37,7 +37,7 @@
       "type": "git",
       "dir": null,
       "ref": "master",
-      "url": "https://github.com/mcagabe19-stuff/hxcpp" 
+      "url": "https://github.com/kittycathy233/hxcpp" 
     },
     {
       "name": "hxCodec",
@@ -54,7 +54,7 @@
       "type": "git",
       "dir": null,
       "ref": "main",
-      "url": "https://github.com/PsychPorting/SScript-Base"
+      "url": "https://github.com/Altronix-Team/SScript"
     },
     {
       "name": "hxcpp-debug-server",
@@ -95,7 +95,7 @@
       "type": "git",
       "dir": null,
       "ref": "SAF",
-      "url": "https://github.com/PsychPorting/extension-androidtools-Base.git"
+      "url": "https://github.com/MAJigsaw77/extension-androidtools"
     }
   ]
 }
